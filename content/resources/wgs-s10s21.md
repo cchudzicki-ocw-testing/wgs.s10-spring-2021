@@ -11,7 +11,9 @@ image_metadata:
     \ on Flickr. License CC BY-NC-SA.)"
   credit: Image by dishfunctional on Flickr. License CC BY NC SA.
   image-alt: A bronze statue of a woman speaking into a microphone.
+learning_resource_types: []
 resourcetype: Image
 title: WGS-S10s21.jpg
+type: OCWImage
 uid: ab9fee22-1168-801d-4d31-29c9f06437d2
 ---
