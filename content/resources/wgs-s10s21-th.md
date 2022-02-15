@@ -14,6 +14,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: WGS-S10s21-th.jpg
-type: OCWImage
 uid: 13777f8b-158c-e1f3-b88e-4d2a55e267f2
 ---
