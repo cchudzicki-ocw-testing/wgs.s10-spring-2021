@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes general information about the course including
+  the course description, course text, and the grading policy.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
